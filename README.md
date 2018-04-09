@@ -1,4 +1,4 @@
-# Aplikasi Pengelolaan Kas Kecil
+:kissing_closed_eyes: # Aplikasi Pengelolaan Kas Kecil :kissing_closed_eyes:
 
 *aplikasi yang ingin saya buat adalah aplikasi pengeloaan kas kecil* :+1:
 
@@ -29,7 +29,7 @@ dalam pengelolaan dana kas kecil, sebenarnya ada 2 sistem, yaitu :
 - Browser Google Chrome/Mozilla Firefox
 
 **Sisi Client:** 
-*- Sistem Operasi Windows 
+- Sistem Operasi Windows 
 - Browser Google Chrome/Mozilla Firefox*
 
 **Lisensi :**
