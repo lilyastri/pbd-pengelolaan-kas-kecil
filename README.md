@@ -3,7 +3,7 @@
 *aplikasi yang ingin saya buat adalah aplikasi pengeloaan kas kecil*
 
 **deskripsi :**
-*dalam pengelolaan dana kas kecil, sebenarnya ada 2 sistem, yaitu :
+dalam pengelolaan dana kas kecil, sebenarnya ada 2 sistem, yaitu :
 * sistem dana tetap 
 * sistem fluktuasi atau dana tidak tetap*
 
