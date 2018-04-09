@@ -1,4 +1,4 @@
-:kissing_closed_eyes: # Aplikasi Pengelolaan Kas Kecil :kissing_closed_eyes:
+# :kissing_closed_eyes: Aplikasi Pengelolaan Kas Kecil :kissing_closed_eyes:
 
 *aplikasi yang ingin saya buat adalah aplikasi pengeloaan kas kecil* :+1:
 
